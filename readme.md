@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## JS Quiz App [Live Link](https://name-conversion-js.netlify.app/)
+## JS Quiz App [Live Link](https://js-quiz-app-js.netlify.app/)
 
 - Skills Gained in this project
 
